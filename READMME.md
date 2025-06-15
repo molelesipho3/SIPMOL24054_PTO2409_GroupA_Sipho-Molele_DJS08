@@ -69,12 +69,9 @@ vanlife-project/
    npm run preview
    ```
 
-## 🔐 Authentication
+## Live host
+- http://localhost:4173/
 
-The app includes a mock authentication system:
-
-- **Email:** b@b.com
-- **Password:** p123
 
 ## 🧭 Routing Structure
 
