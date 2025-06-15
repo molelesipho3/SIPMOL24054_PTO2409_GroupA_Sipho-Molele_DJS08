@@ -2,15 +2,6 @@
 
 A complete React application demonstrating advanced React Router concepts including nested routes, protected routes, and dynamic routing.
 
-## 🚀 Features
-
-- **React Router 6** implementation with nested routes
-- **Protected routes** with authentication
-- **Dynamic routing** with route parameters
-- **Search parameters** for filtering
-- **MirageJS** for API mocking
-- **Responsive design** with mobile support
-
 ## 📁 Project Structure
 
 ```
@@ -135,37 +126,5 @@ Van filtering uses `useSearchParams()` for URL-based state management.
 - `Link` for basic navigation
 - `NavLink` for navigation with active states
 
-## 🎨 Styling
 
-The project uses vanilla CSS with:
-- Responsive design principles
-- CSS Grid and Flexbox layouts
-- Custom color schemes for different van types
-- Mobile-first approach
-
-## 📱 Mobile Support
-
-The application is fully responsive and includes:
-- Touch-friendly navigation
-- Optimized layouts for mobile devices
-- Responsive images and typography
-
-## 🔧 Technologies Used
-
-- **React 18** - UI library
-- **React Router 6** - Client-side routing
-- **Vite** - Build tool and dev server
-- **MirageJS** - API mocking
-- **React Icons** - Icon library
-
-## 🚀 Deployment
-
-The project is configured for easy deployment to platforms like:
-- Vercel
-- Netlify
-- GitHub Pages
-
-## 📝 License
-
-This project is for educational purposes as part of the React Router learning curriculum.
 
